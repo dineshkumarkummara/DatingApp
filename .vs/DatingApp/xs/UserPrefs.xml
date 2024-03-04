@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{DEE3896D-0FBE-4561-8886-F759895D86F3}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="client/src/app/app.component.ts">
+    <Files>
+      <File FileName="client/src/app/app.component.ts" Line="11" Column="1" />
+      <File FileName="client/src/app/app.component.html" Line="1" Column="19" />
+      <File FileName="client/src/app/app.component.css" Line="1" Column="1" />
+      <File FileName="client/src/app/app-routing.module.ts" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DatingApp">
+            <Node name="DatingApp">
+              <Node name="client" expanded="True">
+                <Node name="src">
+                  <Node name="app">
+                    <Node name="app.component.ts" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DatingApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
