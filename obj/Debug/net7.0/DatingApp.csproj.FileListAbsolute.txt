@@ -136,3 +136,11 @@
 /Users/dinesh/Documents/Projects/DatingApp/obj/Debug/net7.0/DatingApp.pdb
 /Users/dinesh/Documents/Projects/DatingApp/obj/Debug/net7.0/DatingApp.genruntimeconfig.cache
 /Users/dinesh/Documents/Projects/DatingApp/obj/Debug/net7.0/ref/DatingApp.dll
+/Users/dinesh/Documents/Projects/DatingApp/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/dinesh/Documents/Projects/DatingApp/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/dinesh/Documents/Projects/DatingApp/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/dinesh/Documents/Projects/DatingApp/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/dinesh/Documents/Projects/DatingApp/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/dinesh/Documents/Projects/DatingApp/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/dinesh/Documents/Projects/DatingApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/dinesh/Documents/Projects/DatingApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
